@@ -96,3 +96,8 @@ La aplicación utiliza H2 Database embebida. Los datos se mantienen en memoria d
 ## Autor
 
 **Xavier Gordillo**
+
+## Link del video
+
+https://youtu.be/EeOHD-KcMQI
+
