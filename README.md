@@ -96,5 +96,3 @@ La aplicación utiliza H2 Database embebida. Los datos se mantienen en memoria d
 ## Autor
 
 **Xavier Gordillo**
-
-Desarrollado para la materia de Validación y Verificación de Software.
